@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <!--Visitors -->
-  <a target="_blank" href="https://github.com/sidbelbase/sidbelbase/"> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/sidbelbase&style=for-the-badge&label=visitors&query=value&color=E40045&labelColor=#5B4638" alt="sidbelbase's vistors"> </a>
+  <a target="_blank" href="https://github.com/sidbelbase/sidbelbase/"> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/sidbelbase&style=for-the-badge&label=visitors&query=value&color=E40045&labelColor=#5B4638" alt="sidbelbase's vistors"> </a> <br/>
 <!-- <a href="https://discord.gg/9536"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" align="center" alt="Mony Simonetti" width="22px" /> </a>-->
 <a href="https://discord.gg/9536"> <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://slack.com/USWBV4C79"><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" alt="Slack"></a>
@@ -18,7 +18,7 @@
   </p> 
   <p>
     <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"><em><b>
-  <i>Grace Hopper: </i> </br>
+  <i>Grace Hopper: </i> <br/>
      -"The most dangerous phrase is‘ We’ve always done it this way". </br>
      -"A ship is safe in port. But that’s not what ships were built for".   </b>  </em>
     </p>   
@@ -77,23 +77,24 @@
   - Hadoop
 
 ### Software Versioning - Learning   
-<link rel="shortcut icon" href="/public/favicon.png" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GiHub"> <a/>
+<a href="https://github.com/monymachad" target="_blank"> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GiHub">  </a>
 <a href="https://gitlab.com/monymachado" target="_blank"> <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
-<a href="https://bitbucket.org/monymachado target="_blacnk"> <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"></a>
+<a href="https://bitbucket.org/monymachado" target="_blank"> <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"></a>
 
-## Social Professional 
-<p align="center" align='right'>
+### Others
+<p align="left">
   <a target="_blank"href="https://dev.to/monymachado"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://medium.com/@monymachado"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-<a target="_black" href="http://figma.com/@monymachado" alt="Design"> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"> </a> </p> </br>
-[CodePen](https://codepen.io/simonete) </br>
-[Behance](https://www.behance.net/simonetti/) </br>
-[Dribbble](https://dribbble.com/simoneti) </br>
+<a target="_blank"href="https://medium.com/@monymachado"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+<a target="_black" href="http://figma.com/@monymachado" alt="Design"> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"> </a>   
+</p> 
+> [CodePen](https://codepen.io/simonete)  
+> [Behance](https://www.behance.net/simonetti/) 
+> [Dribbble](https://dribbble.com/simoneti)  
 
 ### Social Media Communities
 <!-- <a href="https://www.instagram.com/engineersgirls/"> <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px"> </a> -->
-<a href="https://www.instagram.com/engineersgirls/"> <img alt="Instagram Engineers Girls" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a> <br/>
-<a href="https://github.com/engineersgirls" target="_blank"> <img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="Organization Engineers Girls"></a>
+<a href="https://www.instagram.com/engineersgirls/" target="_blank"> <img src="https://img.shields.io/badge/EngineersGirls%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"> </a>
+<a href="https://github.com/engineersgirls" target="_blank"> <img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub_EngineersGirls&style=social" alt="Organization Engineers Girls"></a>
 </p>
 
 ### Streaming 
