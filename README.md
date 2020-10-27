@@ -19,7 +19,7 @@
   <p>
     <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"><em><b>
   <i>Grace Hopper: </i> <br/>
-     -"The most dangerous phrase is‘ We’ve always done it this way". </br>
+     -"The most dangerous phrase is: ‘ We’ve always done it this way". </br>
      -"A ship is safe in port. But that’s not what ships were built for".   </b>  </em>
     </p>   
   
@@ -86,10 +86,10 @@
   <a target="_blank"href="https://dev.to/monymachado"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <a target="_blank"href="https://medium.com/@monymachado"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <a target="_black" href="http://figma.com/@monymachado" alt="Design"> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"> </a>   
-</p> 
-> [CodePen](https://codepen.io/simonete)  
-> [Behance](https://www.behance.net/simonetti/) 
-> [Dribbble](https://dribbble.com/simoneti)  
+</p>  <br/>
+- [CodePen](https://codepen.io/simonete)  <br/>
+- [Behance](https://www.behance.net/simonetti) <br/> 
+- [Dribbble](https://dribbble.com/simoneti)   <br/>
 
 ### Social Media Communities
 <!-- <a href="https://www.instagram.com/engineersgirls/"> <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px"> </a> -->
@@ -101,10 +101,11 @@
 <a href=" https://www.twitch.tv/simonepmachado" target="_blank"> <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
 <a href="https://cutt.ly/DgnzQXF" target="_blank"> <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
   
-### :octocat: I’m collaborating in technology and mixed and female communities, like this:
-- WoMakersCode 
-- BaixadaNerd
-- EngineerGirls
+### :octocat: I’m collaborating in technology, mixed and female communities, like this:
+- [Mulheres Univesp](https://www.facebook.com/mulheresunivesp) 
+- [BaixadaNerd](https://www.instagram.com/movimentobaixadanerd)
+- [EngineerGirls](https://www.instagram.com/engineersgirls)
+- [Educafro](https://www.educafro.org.br/site)
 </details>
    
 <details>
