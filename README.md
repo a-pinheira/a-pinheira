@@ -1,6 +1,4 @@
 <p align="center"> <h1 align="center"> :octocat: A little about myself.. </h1>  
-<br/> <h2> Welcome everyone:heavy_heart_exclamation: </h2>  <br/>
-
 <a href="https://twitter.com/MonyMachado"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="center" alt="@MonyMachado | Twitter" width="22px"/> </a>
 <a href="https://www.linkedin.com/in/simonepmachado/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="center" alt="Abhishek's LinkdeIN" width="22px" /> </a>
 <a href="https://t.me/monypmac"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" align="center" alt="Simonetti" width="22px"  /> </a>
@@ -14,6 +12,7 @@
 <a href="https://slack.com/USWBV4C79"><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" alt="Slack"></a>
 </p>  
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150" alt="Mony Simonetti"/>  
+<br/> <h2> Welcome everyone:heavy_heart_exclamation: </h2>  <br/>
 <p>
   I'm a maker under construction and enthusiast about opensource culture.   <br/> 
    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> I have a degree in Internet Systems from <a href="https://fatecrl.edu.br/" target="_blank"> FATEC-BS / SP</a> and a third year engineering student also in another public school  <a href="https://univesp.br/" target="_blank">UNIVESP / SP</a>.
