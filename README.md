@@ -12,7 +12,7 @@
 <a href="https://slack.com/USWBV4C79"><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" alt="Slack"></a>
 </p>  
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150" alt="Mony Simonetti"/>  
-<br/> <h2> Welcome everyone:heavy_heart_exclamation: </h2>  <br/>
+<p> <em> <font size="20" color="#DF0067"> Welcome everyone:heavy_heart_exclamation:  </font> </em> </p>
 <p>
   I'm a maker under construction and enthusiast about opensource culture.   <br/> 
    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> I have a degree in Internet Systems from <a href="https://fatecrl.edu.br/" target="_blank"> FATEC-BS / SP</a> and a third year engineering student also in another public school  <a href="https://univesp.br/" target="_blank">UNIVESP / SP</a>.
