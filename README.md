@@ -1,4 +1,6 @@
-<p align="center"> <h1 align="center">  Mini Portfolio.. </h1>  
+<p align="center"> <h1 align="center"> :octocat: A little about myself.. </h1>  
+<br/> <h2> Welcome everyone:heavy_heart_exclamation: </h2>  <br/>
+
 <a href="https://twitter.com/MonyMachado"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="center" alt="@MonyMachado | Twitter" width="22px"/> </a>
 <a href="https://www.linkedin.com/in/simonepmachado/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="center" alt="Abhishek's LinkdeIN" width="22px" /> </a>
 <a href="https://t.me/monypmac"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" align="center" alt="Simonetti" width="22px"  /> </a>
@@ -29,12 +31,12 @@
     <strong> 👾 MORE ABOUT ME</strong>
     </summary>
 
-# URL POTFOLIO
+# :robot: URL POTFOLIO
 [:link: Engineers Girls](https://devgirl.github.io/)
 
 ## Stack & Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > 
 <!-- ## Potfolio
-![Mony Machado's github stats](https://github-readme-stats.vercel.app/api?username=monymachado&show_icons=true&theme=radical)-->
+![Mony Machado's github stats](https://github-readme-stats.vercel.app/api?username=monymachado&show_icons=true&theme=radical)--> 
 
 ### Backend 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="JAVA EE 8++">
@@ -83,6 +85,7 @@
 
 ### Others
 <p align="left">
+  <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
   <a target="_blank"href="https://dev.to/monymachado"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <a target="_blank"href="https://medium.com/@monymachado"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <a target="_black" href="http://figma.com/@monymachado" alt="Design"> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"> </a>   
@@ -101,7 +104,7 @@
 <a href=" https://www.twitch.tv/simonepmachado" target="_blank"> <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
 <a href="https://cutt.ly/DgnzQXF" target="_blank"> <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
   
-### :octocat: I’m collaborating in technology, mixed and female communities, like this:
+### I’m collaborating in technology, mixed and female communities, like this:
 - [Mulheres Univesp](https://www.facebook.com/mulheresunivesp) 
 - [BaixadaNerd](https://www.instagram.com/movimentobaixadanerd)
 - [EngineerGirls](https://www.instagram.com/engineersgirls)
