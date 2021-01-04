@@ -89,7 +89,7 @@
 <a target="_blank"href="https://medium.com/@monymachado"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <a target="_black" href="http://figma.com/@monymachado" alt="Design"> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"> </a>   
 </p>  <br/>
-- [CodePen](https://codepen.io/simonete)  <br/>
+- [CodePen](https://codepen.io/simonete) e (https://codepen.io/monymachado) <br/>
 - [Behance](https://www.behance.net/simonetti) <br/> 
 - [Dribbble](https://dribbble.com/simoneti)   <br/>
 
