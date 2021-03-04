@@ -1,6 +1,6 @@
 <p align="center"> <h1 align="center"> :octocat: A little about myself.. </h1>  
-<a href="https://twitter.com/MonyMachado"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="center" alt="@MonyMachado | Twitter" width="22px"/> </a>
-<a href="https://www.linkedin.com/in/simonepmachado/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="center" alt="Abhishek's LinkdeIN" width="22px" /> </a>
+<a href="https://twitter.com/a_pinheira"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="center" alt="@MonyMachado | Twitter" width="22px"/> </a>
+<a href="https://www.linkedin.com/in/a-pinheira/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="center" alt="Abhishek's LinkdeIN" width="22px" /> </a>
 <a href="https://t.me/monypmac"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" align="center" alt="Simonetti" width="22px"  /> </a>
 <a href="https://www.reddit.com/user/monymachado/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" align="center" alt="Mony Machado" width="22px" /> </a>  
 </p>
