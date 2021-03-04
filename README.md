@@ -31,6 +31,7 @@
     </summary>
 
 # :robot: URL POTFOLIO
+[:link: Simone Machado](https://bit.ly/SimoneMachado)
 [:link: Engineers Girls](https://devgirl.github.io/)
 
 ## Stack & Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > 
