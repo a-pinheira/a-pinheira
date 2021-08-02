@@ -44,6 +44,7 @@
 <!-- ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>-->
 <img src="https://img.shields.io/badge/maven%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=green" alt="Maven"> <br/>
+<img src="https://img.shields.io/badge/mapreduce-hadoop-yellowgreen" alt="Map Reduce - Ecosistema Hadoop">
 
 ### Frontend
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML4"/>
