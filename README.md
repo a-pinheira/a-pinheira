@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <!--Visitors -->
-  <a target="_blank" href="https://github.com/sidbelbase/sidbelbase/"> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/sidbelbase&style=for-the-badge&label=visitors&query=value&color=E40045&labelColor=#5B4638" alt="sidbelbase's vistors"> </a> <br/>
+  <!--<a target="_blank" href="https://github.com/sidbelbase/sidbelbase/"> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/sidbelbase&style=for-the-badge&label=visitors&query=value&color=E40045&labelColor=#5B4638" alt="sidbelbase's vistors"> </a> <br/> --> 
 <!-- <a href="https://discord.gg/9536"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" align="center" alt="Mony Simonetti" width="22px" /> </a>-->
 <a href="https://discord.gg/9536"> <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://slack.com/USWBV4C79"><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" alt="Slack"></a>
