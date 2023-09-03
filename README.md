@@ -1,5 +1,5 @@
 <p align="center"> <h1 align="center"> :octocat: A little about myself.. </h1>  
-<a href="https://twitter.com/a_pinheira"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="center" alt="@MonyMachado | Twitter" width="22px"/> </a>
+<a href="https://twitter.com/a_pinheira"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="center" alt="@a_pinheira | Twitter" width="22px"/> </a>
 <a href="https://www.linkedin.com/in/a-pinheira/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="center" alt="Abhishek's LinkdeIN" width="22px" /> </a>
 <a href="https://t.me/monypmac"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" align="center" alt="Simonetti" width="22px"  /> </a>
 <a href="https://www.reddit.com/user/monymachado/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" align="center" alt="Mony Machado" width="22px" /> </a>  
@@ -36,7 +36,7 @@
 
 ## Stack & Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > 
 <!-- ## Potfolio
-![Mony Machado's github stats](https://github-readme-stats.vercel.app/api?username=monymachado&show_icons=true&theme=radical)--> 
+![Mony Machado's github stats](https://github-readme-stats.vercel.app/api?username=a-pinheira&show_icons=true&theme=radical)--> 
 
 ### Backend 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="JAVA EE 8++">
@@ -80,7 +80,7 @@
   - Hadoop
 
 ### Software Versioning - Learning   
-<a href="https://github.com/monymachad" target="_blank"> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GiHub">  </a>
+<a href="https://github.com/a-pinheira" target="_blank"> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GiHub">  </a>
 <a href="https://gitlab.com/monymachado" target="_blank"> <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
 <a href="https://bitbucket.org/monymachado" target="_blank"> <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"></a>
 
@@ -115,11 +115,11 @@
 <details>
     <summary><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> MY GitHub STATS</summary>
     <p align="center"> 
-    <!-- ![Mony Machado' Github Stats](https://github-readme-stats.vercel.app/api?username=monymachado&show_icons=true&theme=tokyonight)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monymachado&layout=compact&theme=gotham) -->
-    <img src="https://github-readme-stats.vercel.app/api?username=monymachado&show_icons=true&theme=radical" alt="monymachado"/> 
+    <!-- ![Mony Machado' Github Stats](https://github-readme-stats.vercel.app/api?username=a-pinheira&show_icons=true&theme=tokyonight)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-pinheira&layout=compact&theme=gotham) -->
+    <img src="https://github-readme-stats.vercel.app/api?username=a-pinheira&show_icons=true&theme=radical" alt="a-pinheira"/> 
  </details>
-<!-- ![GitHub](https://img.shields.io/github/license/monymachado/monymachado?color=%23C71A36&style=for-the-badge) -->
+<!-- ![GitHub](https://img.shields.io/github/license/a-pinheira/a-pinheira?color=%23C71A36&style=for-the-badge) -->
 
                                                                                                               
 
