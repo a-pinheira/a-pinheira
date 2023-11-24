@@ -16,7 +16,7 @@
 <p> <em> <font size="20" color="#DF0067"> Welcome everyone:heavy_heart_exclamation:  </font> </em> </p>
 <p>
   I'm a maker under construction and enthusiast about opensource culture.   <br/> 
-   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> I have a degree in Internet Systems from <a href="https://fatecrl.edu.br/" target="_blank"> FATEC-BS / SP</a> and a third year engineering student also in another public school  <a href="https://univesp.br/" target="_blank">UNIVESP / SP</a>.
+   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> I have a degree in Internet Systems from <a href="https://fatecrl.edu.br/" target="_blank"> FATEC-BS / SP</a> and a final year of engineering, student also in another public school  <a href="https://univesp.br/" target="_blank">UNIVESP / SP</a>.
   </p> 
   <p>
     <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"><em><b>
